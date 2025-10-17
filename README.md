@@ -29,6 +29,11 @@ anki_mcp/
 
 ## Quick Start
 
+```bash
+git clone https://github.com/Epiphany-0312/genanki-mcp.git
+cd genanki-mcp
+```
+
 ### Requirements
 
 - Python ≥ 3.13

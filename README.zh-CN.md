@@ -33,6 +33,11 @@ anki_mcp/
 
 ## 快速开始
 
+```bash
+git clone https://github.com/Epiphany-0312/genanki-mcp.git
+cd genanki-mcp
+```
+
 ### 运行环境
 
 - Python ≥ 3.13
