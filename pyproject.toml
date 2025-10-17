@@ -1,0 +1,11 @@
+[project]
+name = "anki-mcp"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "genanki>=0.13.1",
+    "mcp[cli]>=1.13.1",
+    "pillow>=10.0.0",
+]
